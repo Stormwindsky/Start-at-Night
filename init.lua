@@ -1,6 +1,6 @@
 -- Mod: Start at Night
 -- Author: Stormwindsky
--- License: CC0 1.0
+-- License: MIT-0
 
 local function force_night()
     -- 0.0 is exactly Midnight.
